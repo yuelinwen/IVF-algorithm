@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m pip install numpy --quiet)",
+      "Bash(python src/main.py)"
+    ]
+  }
+}
